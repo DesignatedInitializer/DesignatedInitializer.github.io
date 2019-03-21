@@ -7,6 +7,7 @@ baseurl: ""
 url: "https://kobachi.jp"
 # twitter_username: za_kobachi
 github_username: DesignatedInitializer
+linkedin_username: kobachi
 
 # Build settings
 markdown: kramdown
